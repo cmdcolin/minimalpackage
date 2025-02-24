@@ -1,11 +1,10 @@
 {
   "name": "@cmdcolin/minimalpackage",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "simple pure-esm package compatible with tsc",
   "repository": "cmdcolin/minimalpackage",
   "license": "MIT",
   "type": "module",
-  "main": "./dist/index.js",
   "exports": "./dist/index.js",
   "files": [
     "dist"
