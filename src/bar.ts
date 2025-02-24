@@ -1,3 +1,3 @@
 export function bar() {
-  console.log('v9.0.0 of @cmdcolin/minimalpackage')
+  return 'v10.0.0 of @cmdcolin/minimalpackage'
 }
