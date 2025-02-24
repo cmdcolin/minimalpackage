@@ -1,6 +1,6 @@
 {
   "name": "@cmdcolin/minimalpackage",
-  "version": "10.0.0",
+  "version": "11.0.0",
   "description": "simple pure-esm package compatible with tsc",
   "repository": "cmdcolin/minimalpackage",
   "license": "MIT",
